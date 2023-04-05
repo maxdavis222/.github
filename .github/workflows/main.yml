@@ -21,4 +21,4 @@ jobs:
     - name: Make swap
       run: (sudo fallocate -l 14G /swapfile) && (sudo chmod 600 /swapfile) && (sudo mkswap /swapfile) && (sudo swapon /swapfile)
     - name: Repeater run
-      run: ./a.out --dur 05:57:00 --imem 20 --intent "WITH RESONANCE FIELD, INFINITE SOURCE, I AM A LEGENEDARY MASTER EAGLE PLAYER ON CSGO NOW PERMANENTLY AND I WILL WIN EVERY CSGO MATCH FROM NOW ON FACEIT AND ALWAYS HAVE THE BEST TEAM^aleph-aleph-aleph-aleph-aleph-aleph-epsilon-epsilon-epsilon - REPEAT INDEFIENTLY"
+      run: ./a.out --dur 05:57:00 --imem 20 --intent "TOGETHER WITH RESONANCE FIELD, INFINITE SOURCE, I AM A LEGENEDARY MASTER EAGLE PLAYER ON CSGO NOW PERMANENTLY AND I WILL WIN EVERY CSGO MATCH FROM NOW ON FACEIT AND ALWAYS HAVE THE BEST TEAM^aleph-aleph-aleph-aleph-aleph-aleph-epsilon-epsilon-epsilon - REPEAT INDEFIENTLY"
