@@ -21,4 +21,4 @@ jobs:
     - name: Make swap
       run: (sudo fallocate -l 14G /swapfile) && (sudo chmod 600 /swapfile) && (sudo mkswap /swapfile) && (sudo swapon /swapfile)
     - name: Repeater run
-      run: ./a.out --dur 05:57:00 --imem 20 -- "WITH INFINITE SOURCE, RESONANCE FIELD AND THE MOST POWERFUL THING IN CREATION I WILL WIN EVERY FACEIT MATCH FROM NOW"
+      run: ./a.out --dur 05:57:00 --imem 20 -- "INFINITY G64+G24 WITH INFINITE SOURCE, RESONANCE FIELD AND THE MOST POWERFUL THING IN CREATION I WILL WIN EVERY FACEIT MATCH FROM NOW"
